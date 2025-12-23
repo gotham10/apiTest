@@ -1,0 +1,2438 @@
+Path: ReplicatedStorage.Module.Config.MakeConfig
+--------------------------------------------------------------------------------
+Blade of Frost= {
+  Require = {
+    Steel= {
+      Name = Steel
+      Number = 100
+    }
+    Mysterious eyes= {
+      Name = Mysterious eyes
+      Number = 150
+    }
+    Rock= {
+      Name = Rock
+      Number = 50
+    }
+    Jade= {
+      Name = Jade
+      Number = 35
+    }
+    Desert core= {
+      Name = Desert core
+      Number = 1
+    }
+    Leather= {
+      Name = Leather
+      Number = 2
+    }
+    Diamond= {
+      Name = Diamond
+      Number = 1
+    }
+  }
+  RequireGold = 12500
+  Name = Blade of Frost
+  RequireTime = 200
+}
+Fresh blood= {
+  Require = {
+    Steel= {
+      Name = Steel
+      Number = 25
+    }
+    Broken Blood Blade= {
+      Name = Broken Blood Blade
+      Number = 1
+    }
+    Broken blade= {
+      Name = Broken blade
+      Number = 10
+    }
+    Jade= {
+      Name = Jade
+      Number = 100
+    }
+    Cloth= {
+      Name = Cloth
+      Number = 25
+    }
+    Leather= {
+      Name = Leather
+      Number = 3
+    }
+    Diamond= {
+      Name = Diamond
+      Number = 4
+    }
+  }
+  RequireGold = 25000
+  Name = Fresh blood
+  RequireTime = 300
+}
+Desert Legend= {
+  Require = {
+    Sand= {
+      Name = Rock
+      Number = 500
+    }
+    Steel= {
+      Name = Steel
+      Number = 105
+    }
+    Sandstone= {
+      Name = Sandstone
+      Number = 12
+    }
+    Cloth= {
+      Name = Cloth
+      Number = 25
+    }
+    Leather= {
+      Name = Leather
+      Number = 8
+    }
+    Diamond= {
+      Name = Diamond
+      Number = 10
+    }
+  }
+  RequireGold = 7250
+  Name = Desert Legend
+  RequireTime = 180
+}
+Sword of oath= {
+  Require = {
+    Sand= {
+      Name = Rock
+      Number = 250
+    }
+    Steel= {
+      Name = Steel
+      Number = 25
+    }
+    Cloth= {
+      Name = Cloth
+      Number = 16
+    }
+    Leather= {
+      Name = Leather
+      Number = 2
+    }
+    Diamond= {
+      Name = Diamond
+      Number = 1
+    }
+  }
+  RequireGold = 3000
+  Name = Sword of oath
+  RequireTime = 90
+}
+Winter treasures= {
+  Require = {
+    Primordial rock= {
+      Name = Primordial rock
+      Number = 1
+    }
+    Electricity of the beginning= {
+      Name = Electricity of the beginning
+      Number = 1
+    }
+    Ether= {
+      Name = Ether
+      Number = 1
+    }
+    The light of the beginning= {
+      Name = The light of the beginning
+      Number = 1
+    }
+    A mysterious conglomerate= {
+      Name = Primordial mineral
+      Number = 1
+    }
+  }
+  RequireGold = 50000
+  Name = Winter treasures
+  RequireTime = 300
+}
+Goblin's Wrath= {
+  Require = {
+    Goblin blood= {
+      Name = Goblin blood
+      Number = 999
+    }
+  }
+  RequireGold = 1500
+  Name = Goblin's Wrath
+  RequireTime = 30
+}
+Tundra opportunity= {
+  Require = {
+    Steel= {
+      Name = Steel
+      Number = 80
+    }
+    Magma core= {
+      Name = Magma core
+      Number = 1
+    }
+    Yeti's Tooth= {
+      Name = Yeti's Tooth
+      Number = 28
+    }
+    Jade= {
+      Name = Jade
+      Number = 50
+    }
+    Mysterious eyes= {
+      Name = Mysterious eyes
+      Number = 200
+    }
+    Leather= {
+      Name = Leather
+      Number = 3
+    }
+    Diamond= {
+      Name = Diamond
+      Number = 3
+    }
+  }
+  RequireGold = 16000
+  Name = Tundra opportunity
+  RequireTime = 200
+}
+Cursed eyes= {
+  Require = {
+    Steel= {
+      Name = Steel
+      Number = 255
+    }
+    A mysterious conglomerate= {
+      Name = Primordial mineral
+      Number = 1
+    }
+    Diamond= {
+      Name = Diamond
+      Number = 2
+    }
+    Jade= {
+      Name = Jade
+      Number = 50
+    }
+    Mysterious eyes= {
+      Name = Mysterious eyes
+      Number = 166
+    }
+    Yeti's Tooth= {
+      Name = Yeti's Tooth
+      Number = 34
+    }
+    Dazzling decision= {
+      Name = Hard skin
+      Number = 15
+    }
+  }
+  RequireGold = 30000
+  Name = Cursed eyes
+  RequireTime = 300
+}
+Steel greatsword= {
+  Require = {
+    Slime slime= {
+      Name = Slime slime
+      Number = 40
+    }
+    Steel= {
+      Name = Steel
+      Number = 30
+    }
+    Goblin core= {
+      Name = Goblin core
+      Number = 1
+    }
+    Goblin blood= {
+      Name = Goblin blood
+      Number = 25
+    }
+  }
+  RequireGold = 2100
+  Name = Steel greatsword
+  RequireTime = 90
+}
+Katana= {
+  Require = {
+    Steel= {
+      Name = Steel
+      Number = 50
+    }
+    Cloth= {
+      Name = Cloth
+      Number = 15
+    }
+    Broken blade= {
+      Name = Broken blade
+      Number = 4
+    }
+    Jade= {
+      Name = Jade
+      Number = 25
+    }
+    Desert core= {
+      Name = Desert core
+      Number = 1
+    }
+    Leather= {
+      Name = Leather
+      Number = 10
+    }
+    Diamond= {
+      Name = Diamond
+      Number = 2
+    }
+  }
+  RequireGold = 10000
+  Name = Katana
+  RequireTime = 180
+}
+Golem Destroyer= {
+  Require = {
+    Rock= {
+      Name = Rock
+      Number = 300
+    }
+    Magma core= {
+      Name = Magma core
+      Number = 1
+    }
+    Steel= {
+      Name = Steel
+      Number = 120
+    }
+    Gold= {
+      Name = Gold
+      Number = 30
+    }
+    Diamond= {
+      Name = Diamond
+      Number = 5
+    }
+  }
+  RequireGold = 8000
+  Name = Golem Destroyer
+  RequireTime = 180
+}
+Iron sword= {
+  Require = {
+    Steel= {
+      Name = Steel
+      Number = 3
+    }
+    Slime slime= {
+      Name = Slime slime
+      Number = 30
+    }
+    Rock= {
+      Name = Rock
+      Number = 5
+    }
+  }
+  RequireGold = 1000
+  Name = Iron sword
+  RequireTime = 60
+}
+Sand dagger= {
+  Require = {
+    Sand= {
+      Name = Rock
+      Number = 100
+    }
+    Steel= {
+      Name = Steel
+      Number = 15
+    }
+    Gold= {
+      Name = Gold
+      Number = 1
+    }
+    Slime slime= {
+      Name = Slime slime
+      Number = 10
+    }
+  }
+  RequireGold = 1750
+  Name = Sand dagger
+  RequireTime = 60
+}
+Touch of Dawn= {
+  Require = {
+    Gold= {
+      Name = Gold
+      Number = 51
+    }
+    The light of the beginning= {
+      Name = The light of the beginning
+      Number = 1
+    }
+    Hard skin= {
+      Name = Hard skin
+      Number = 11
+    }
+    Jade= {
+      Name = Jade
+      Number = 111
+    }
+    Mysterious eyes= {
+      Name = Mysterious eyes
+      Number = 111
+    }
+    Yeti's Tooth= {
+      Name = Yeti's Tooth
+      Number = 21
+    }
+    Diamond= {
+      Name = Diamond
+      Number = 3
+    }
+  }
+  RequireGold = 25000
+  Name = Touch of Dawn
+  RequireTime = 300
+}
+Magma Greatsword= {
+  Require = {
+    Magma core= {
+      Name = Magma core
+      Number = 1
+    }
+    Steel= {
+      Name = Steel
+      Number = 150
+    }
+    Golem Core= {
+      Name = Golem Core
+      Number = 1
+    }
+    Diamond= {
+      Name = Diamond
+      Number = 3
+    }
+  }
+  RequireGold = 8800
+  Name = Magma Greatsword
+  RequireTime = 180
+}
+Electric icer= {
+  Require = {
+    Steel= {
+      Name = Steel
+      Number = 200
+    }
+    Electricity of the beginning= {
+      Name = Electricity of the beginning
+      Number = 1
+    }
+    Mysterious eyes= {
+      Name = Mysterious eyes
+      Number = 164
+    }
+    Jade= {
+      Name = Jade
+      Number = 100
+    }
+    Gold= {
+      Name = Gold
+      Number = 15
+    }
+    Yeti's Tooth= {
+      Name = Yeti's Tooth
+      Number = 44
+    }
+    Diamond= {
+      Name = Diamond
+      Number = 5
+    }
+  }
+  RequireGold = 20000
+  Name = Electric icer
+  RequireTime = 240
+}
+King's sword= {
+  Require = {
+    Gold= {
+      Name = Gold
+      Number = 2
+    }
+    Steel= {
+      Name = Steel
+      Number = 5
+    }
+    Slime slime= {
+      Name = Slime slime
+      Number = 25
+    }
+    Goblin blood= {
+      Name = Goblin blood
+      Number = 15
+    }
+  }
+  RequireGold = 1350
+  Name = King's sword
+  RequireTime = 60
+}
+Wooden sword= {
+  Require = {
+  }
+  RequireGold = 300
+  Name = Wooden sword
+  RequireTime = 30
+}
+Stone sword= {
+  Require = {
+    Goblin blood= {
+      Name = Goblin blood
+      Number = 5
+    }
+    Rock= {
+      Name = Rock
+      Number = 10
+    }
+  }
+  RequireGold = 500
+  Name = Stone sword
+  RequireTime = 60
+}
+Mummy slayer= {
+  Require = {
+    Sand= {
+      Name = Rock
+      Number = 80
+    }
+    Steel= {
+      Name = Steel
+      Number = 50
+    }
+    Sandstone= {
+      Name = Sandstone
+      Number = 15
+    }
+    Cloth= {
+      Name = Cloth
+      Number = 12
+    }
+    Leather= {
+      Name = Leather
+      Number = 4
+    }
+    Diamond= {
+      Name = Diamond
+      Number = 2
+    }
+  }
+  RequireGold = 5000
+  Name = Mummy slayer
+  RequireTime = 120
+}
+--------------------------------------------------------------------------------
+
+Path: ReplicatedStorage.Module.Config.MakeItemConfig
+--------------------------------------------------------------------------------
+Stamina potion(Middle) = {
+  Require = {
+    Goblin blood= {
+      Name = Goblin blood
+      Number = 10
+    }
+    Slime slime= {
+      Name = Slime slime
+      Number = 30
+    }
+  }
+  RequireGold = 100
+  Name = Stamina potion(Middle)
+  Lay = 2
+}
+Soup of Oblivion= {
+  Require = {
+    Magma core= {
+      Name = Magma core
+      Number = 1
+    }
+    Golem Core= {
+      Name = Golem Core
+      Number = 1
+    }
+    Sand= {
+      Name = Rock
+      Number = 33
+    }
+    Fireball= {
+      Name = Fireball
+      Number = 54
+    }
+    Desert core= {
+      Name = Desert core
+      Number = 1
+    }
+    Goblin core= {
+      Name = Goblin core
+      Number = 1
+    }
+    Slime slime= {
+      Name = Slime slime
+      Number = 111
+    }
+    Leather= {
+      Name = Leather
+      Number = 7
+    }
+    Goblin blood= {
+      Name = Goblin blood
+      Number = 82
+    }
+  }
+  RequireGold = 50000
+  Name = Soup of Oblivion
+  Lay = 999999
+}
+Reinforced downside protection= {
+  Require = {
+    Gold= {
+      Name = Gold
+      Number = 25
+    }
+    Cloth= {
+      Name = Cloth
+      Number = 50
+    }
+    Diamond= {
+      Name = Diamond
+      Number = 10
+    }
+  }
+  RequireGold = 10000
+  Name = Reinforced downside protection
+  Lay = 999
+}
+Broken Blood Blade= {
+  Require = {
+    Broken Blood Sword Fragment= {
+      Name = Broken Blood Sword Fragment
+      Number = 10
+    }
+    Steel= {
+      Name = Steel
+      Number = 25
+    }
+  }
+  RequireGold = 5000
+  Name = Broken Blood Blade
+  Lay = 99
+}
+Stamina potion(Big) = {
+  Require = {
+    Goblin blood= {
+      Name = Goblin blood
+      Number = 25
+    }
+    Slime slime= {
+      Name = Slime slime
+      Number = 100
+    }
+  }
+  RequireGold = 500
+  Name = Stamina potion(Big)
+  Lay = 3
+}
+Primordial rock= {
+  Require = {
+    Warm chill= {
+      Name = Warm chill
+      Number = 10
+    }
+    Rock= {
+      Name = Rock
+      Number = 1000
+    }
+    Dazzling decision= {
+      Name = Dazzling decision
+      Number = 10
+    }
+    Hard skin= {
+      Name = Hard skin
+      Number = 10
+    }
+  }
+  RequireGold = 10000
+  Name = Primordial rock
+  Lay = 8
+}
+Goblin core= {
+  Require = {
+    Steel= {
+      Name = Steel
+      Number = 2
+    }
+    Goblin blood= {
+      Name = Goblin blood
+      Number = 500
+    }
+  }
+  RequireGold = 500
+  Name = Goblin core
+  Lay = 7
+}
+Teleport Record= {
+  Require = {
+    Mana stone= {
+      Name = Mana stone
+      Number = 1
+    }
+    Steel= {
+      Name = Steel
+      Number = 500
+    }
+    Diamond= {
+      Name = Diamond
+      Number = 15
+    }
+  }
+  RequireGold = 50000
+  Name = Teleport Record
+  Lay = 99999999
+}
+Mana Potion(Big) = {
+  Require = {
+    Sand= {
+      Name = Rock
+      Number = 35
+    }
+    Slime slime= {
+      Name = Slime slime
+      Number = 100
+    }
+    Goblin blood= {
+      Name = Goblin blood
+      Number = 25
+    }
+  }
+  RequireGold = 750
+  Name = Mana Potion(Big)
+  Lay = 6
+}
+Stamina potion(Cow) = {
+  Require = {
+    Goblin blood= {
+      Name = Goblin blood
+      Number = 2
+    }
+    Slime slime= {
+      Name = Slime slime
+      Number = 5
+    }
+  }
+  RequireGold = 15
+  Name = Stamina potion(Cow)
+  Lay = 1
+}
+Receive gold= {
+  Require = {
+    Golem Core= {
+      Name = Golem Core
+      Number = 1
+    }
+    Mana stone= {
+      Name = Mana stone
+      Number = 3
+    }
+  }
+  RequireGold = 50000
+  Name = Mana storage
+  Lay = 999999999
+}
+Mana Potion(Middle) = {
+  Require = {
+    Sand= {
+      Name = Rock
+      Number = 12
+    }
+    Slime slime= {
+      Name = Slime slime
+      Number = 30
+    }
+    Goblin blood= {
+      Name = Goblin blood
+      Number = 10
+    }
+  }
+  RequireGold = 180
+  Name = Mana Potion(Middle)
+  Lay = 5
+}
+Ether= {
+  Require = {
+    Mana stone= {
+      Name = Mana stone
+      Number = 1
+    }
+    Goblin core= {
+      Name = Goblin core
+      Number = 1
+    }
+    Magma core= {
+      Name = Magma core
+      Number = 1
+    }
+    Desert core= {
+      Name = Desert core
+      Number = 1
+    }
+    Golem Core= {
+      Name = Golem Core
+      Number = 1
+    }
+    Steel= {
+      Name = Steel
+      Number = 50
+    }
+  }
+  RequireGold = 10000
+  Name = Ether
+  Lay = 7
+}
+Teleporter= {
+  Require = {
+    Gold= {
+      Name = Gold
+      Number = 25
+    }
+    Goblin core= {
+      Name = Goblin core
+      Number = 3
+    }
+    Cloth= {
+      Name = Cloth
+      Number = 10
+    }
+  }
+  RequireGold = 7500
+  Name = Teleporter
+  Lay = 99999999
+}
+Parchment with something written on it= {
+  Require = {
+    Mana stone= {
+      Name = Mana stone
+      Number = 1
+    }
+    Unknown paper= {
+      Name = Unknown paper
+      Number = 1
+    }
+  }
+  RequireGold = 0
+  Name = Parchment with something written on it
+  Lay = 1099999999
+}
+Lava Cave Raid Ticket= {
+  Require = {
+    Magma core= {
+      Name = Magma core
+      Number = 1
+    }
+    Leather= {
+      Name = Leather
+      Number = 3
+    }
+    Diamond= {
+      Name = Diamond
+      Number = 1
+    }
+  }
+  RequireGold = 10000
+  Name = Lava Cave Raid Ticket
+  Lay = 10
+}
+Mana Potion(Cow) = {
+  Require = {
+    Sand= {
+      Name = Rock
+      Number = 3
+    }
+    Slime slime= {
+      Name = Slime slime
+      Number = 10
+    }
+    Goblin blood= {
+      Name = Goblin blood
+      Number = 2
+    }
+  }
+  RequireGold = 25
+  Name = Mana Potion(Cow)
+  Lay = 4
+}
+--------------------------------------------------------------------------------
+
+Path: ReplicatedStorage.Module.Config.MeltItemConfig
+--------------------------------------------------------------------------------
+Leather= {
+  Require = {
+    Cloth= {
+      Name = Cloth
+      Number = 4
+    }
+  }
+  RequireGold = 100
+  Name = Leather
+  Lay = 1
+}
+--------------------------------------------------------------------------------
+
+Path: ReplicatedStorage.Module.Config.RaidConfig
+--------------------------------------------------------------------------------
+Magic eye= {
+  Name = Magic eye
+  Id = 7
+  Info = Mana regeneration speed2Your stomach will stretch.
+  Require = {
+    Artificial stone= {
+      Name = Artificial stone
+      Number = 12
+    }
+    Fireball= {
+      Name = Fireball
+      Number = 50
+    }
+    Ether= {
+      Name = Ether
+      Number = 3
+    }
+  }
+  Lay = 7
+}
+Luxury hat= {
+  Name = Luxury hat
+  Id = 1
+  Info = Curse core10% Increases.
+  Require = {
+    Crimson Essence= {
+      Name = Crimson Essence
+      Number = 1
+    }
+    Leather= {
+      Name = Leather
+      Number = 15
+    }
+    Cloth= {
+      Name = Cloth
+      Number = 25
+    }
+  }
+  Lay = 1
+}
+Steel cogwheel= {
+  Name = Steel cogwheel
+  Id = 4
+  Info = All stats+ 10
+  Require = {
+    Gray Heartstone= {
+      Name = Gray Heartstone
+      Number = 1
+    }
+    Crimson Essence= {
+      Name = Crimson Essence
+      Number = 1
+    }
+    Steel= {
+      Name = Steel
+      Number = 500
+    }
+    Twilight Shard= {
+      Name = Maximum upper limit
+      Number = 1
+    }
+    Diamond= {
+      Name = Diamond
+      Number = 25
+    }
+  }
+  Lay = 4
+}
+Body armor= {
+  Name = Body armor
+  Id = 3
+  Info = Defense Stats+ 25
+  Require = {
+    Gray Heartstone= {
+      Name = Gray Heartstone
+      Number = 1
+    }
+    Steel= {
+      Name = Steel
+      Number = 100
+    }
+    Diamond= {
+      Name = Diamond
+      Number = 10
+    }
+  }
+  Lay = 3
+}
+Ice hall= {
+  Name = Ice hall
+  Id = 11
+  Info = I learned an efficient way to use mana in large quantities.+0.05Add twice as much.
+  Require = {
+    Magic Essence= {
+      Name = Magic Essence
+      Number = 1000
+    }
+    Queen's Ice Core= {
+      Name = Queen's Ice Core
+      Number = 1
+    }
+    Magic core= {
+      Name = Magic core
+      Number = 1
+    }
+    Frosty Essence= {
+      Name = Frosty Essence
+      Number = 100
+    }
+    Eternal Frost Crystal= {
+      Name = Eternal Frost Crystal
+      Number = 1
+    }
+    Bitter cold decision= {
+      Name = Bitter cold decision
+      Number = 1
+    }
+  }
+  Lay = 11
+}
+Frostia= {
+  Name = Frostia
+  Id = 10
+  Info = Mana Stats+ 50
+  Require = {
+    Hancheol= {
+      Name = Hancheol
+      Number = 1
+    }
+    Mysterious eyes= {
+      Name = Mysterious eyes
+      Number = 333
+    }
+    Frosty Essence= {
+      Name = Frosty Essence
+      Number = 50
+    }
+    Eternal Frost Crystal= {
+      Name = Eternal Frost Crystal
+      Number = 1
+    }
+    Bitter cold decision= {
+      Name = Bitter cold decision
+      Number = 1
+    }
+  }
+  Lay = 10
+}
+Frosty Armor= {
+  Name = Frosty Armor
+  Id = 9
+  Info = Has high cold resistance. It helps you work well in the Frostia region as well..
+  Require = {
+    Fur and leather= {
+      Name = Fur and leather
+      Number = 250
+    }
+    Frosty Essence= {
+      Name = Frosty Essence
+      Number = 3
+    }
+    Artificial stone= {
+      Name = Artificial stone
+      Number = 30
+    }
+    Ether= {
+      Name = Ether
+      Number = 1
+    }
+  }
+  Lay = 9
+}
+Fishing rod= {
+  Name = Fishing rod
+  Id = 6
+  Info = On kill500 Receive gold.
+  Require = {
+    Gold= {
+      Name = Gold
+      Number = 1500
+    }
+    Gray Heartstone= {
+      Name = Gray Heartstone
+      Number = 2
+    }
+    Leather= {
+      Name = Leather
+      Number = 200
+    }
+    Diamond= {
+      Name = Diamond
+      Number = 100
+    }
+  }
+  Lay = 6
+}
+Bow tie= {
+  Name = Bow tie
+  Id = 2
+  Info = Amount of gold sold10% Increases.
+  Require = {
+    Twilight Shard= {
+      Name = Maximum upper limit
+      Number = 1
+    }
+    Cloth= {
+      Name = Cloth
+      Number = 100
+    }
+  }
+  Lay = 2
+}
+Secondary core= {
+  Name = Secondary core
+  Id = 8
+  Info = Increase the efficiency of your mana stats by increasing the output of your mana core.5Double increase.
+  Require = {
+    Mana stone= {
+      Name = Mana stone
+      Number = 1500
+    }
+    Magic Essence= {
+      Name = Magic Essence
+      Number = 250
+    }
+    Ether= {
+      Name = Ether
+      Number = 15
+    }
+    Artificial stone= {
+      Name = Artificial stone
+      Number = 50
+    }
+    Crimson Essence= {
+      Name = Crimson Essence
+      Number = 1
+    }
+  }
+  Lay = 8
+}
+Life predator= {
+  Name = Life predator
+  Id = 5
+  Info = Of maximum physical strength3.5% You get additional damage equal to.
+  Require = {
+    Hard skin= {
+      Name = Hard skin
+      Number = 50
+    }
+    Magma core= {
+      Name = Magma core
+      Number = 25
+    }
+    Ether= {
+      Name = Ether
+      Number = 1
+    }
+    Golem Core= {
+      Name = Golem Core
+      Number = 10
+    }
+    Diamond= {
+      Name = Diamond
+      Number = 50
+    }
+  }
+  Lay = 5
+}
+--------------------------------------------------------------------------------
+
+Path: ReplicatedStorage.Module.Config.StyleConfig
+--------------------------------------------------------------------------------
+Raising Goblins= {
+  Color = 0, 0.666667, 0
+  ToolTip = A title earned when you obtain the Goblin Fury skill.
+  Name = Raising Goblins
+}
+Handsome voice actor= {
+  Color = 1, 0.666667, 0
+  ToolTip = Title given to voice actors
+  Name = Handsome voice actor
+}
+Game artist= {
+  Color = 1, 0.666667, 1
+  ToolTip = Game Artist Title
+  Name = Game artist
+}
+The pinnacle of swordsmanship= {
+  Color = 0.666667, 0.666667, 1
+  ToolTip = Continuous slash, Blood slash, Title obtained when awakening the skill Ilseom
+  Name = The pinnacle of swordsmanship
+}
+Higher world= {
+  Color = 1, 0.666667, 1
+  ToolTip = 2A title given to players who have arrived in the dimension.
+  Name = Higher world
+}
+Developer= {
+  Color = 1, 0, 0
+  ToolTip = A title you can get as a game developer
+  Name = Developer
+}
+VIP = {
+  Color = 1, 1, 0
+  ToolTip = VIP Title awarded to players who purchase the Game Pass
+  Name = VIP
+}
+Manager= {
+  Color = 0.333333, 1, 0.498039
+  ToolTip = Title given to administrators
+  Name = Manager
+}
+VVIP = {
+  Color = 0, 0, 0
+  ToolTip = Cumulative Robux usage5A title given to players who have arrived in the dimension.
+  Name = VVIP
+}
+1Alpha player= {
+  Color = 0.333333, 1, 1
+  ToolTip = 1A title given to players who have solved the secrets of the dimension.
+  Name = 1Secrets of dimension
+}
+Alpha player= {
+  Color = 1, 0.376471, 0.376471
+  ToolTip = A title received by playing the game when it was not long after its release.
+  Name = Alpha player
+}
+--------------------------------------------------------------------------------
+
+Path: ReplicatedStorage.Module.Config.ArmorConfig
+--------------------------------------------------------------------------------
+Tooth necklace= {
+  Image = rbxassetid://72291550982169
+  Name = Tooth necklace
+  Id = 17
+  Price = 8000
+  Hp = 100
+  Armor = 15
+}
+Dark helmet= {
+  Name = Dark helmet
+  Id = 21
+  Price = 45000
+  Hp = 500
+  Armor = 0
+}
+Queen's ring= {
+  Name = Queen's ring
+  Id = 26
+  Price = 260000
+  Hp = 700
+  Armor = 70
+}
+Pyramid beads= {
+  Image = rbxassetid://135965239971399
+  Name = Pyramid beads
+  Id = 10
+  Price = 2100
+  Hp = 0
+  Armor = 8
+}
+Goblin armor= {
+  Name = Goblin armor
+  Id = 1
+  Price = 1000
+  Hp = 15
+  Armor = 1.5
+}
+Warrior headband= {
+  Image = rbxassetid://100811706094924
+  Name = Warrior headband
+  Id = 13
+  Price = 5670
+  Hp = 150
+  Armor = 1
+}
+Sand belt= {
+  Name = Sand belt
+  Id = 10
+  Price = 2750
+  Hp = 100
+  Armor = 0
+}
+Dark armor= {
+  Name = Dark armor
+  Id = 22
+  Price = 50000
+  Hp = 150
+  Armor = 50
+}
+Diamond ring= {
+  Image = rbxassetid://125794839250331
+  Name = Diamond ring
+  Id = 4
+  Price = 2000
+  Hp = 40
+  Armor = 3
+}
+Primordial snow= {
+  Name = Primordial snow
+  Id = 20
+  Price = 30000
+  Hp = 300
+  Armor = 15
+}
+Very rare= {
+  Name = Goblin anklet
+  Id = 11
+  Price = 500
+  Hp = 5
+  Armor = 0
+}
+Snowflake brooch= {
+  Name = Snowflake brooch
+  Id = 16
+  Price = 7200
+  Hp = 70
+  Armor = 15
+}
+Paradise soul body= {
+  Name = Paradise soul body
+  Id = 24
+  Price = 100000
+  Hp = 1000
+  Armor = 0
+}
+The light of the beginning= {
+  Image = rbxassetid://72018972354757
+  Name = Samurai hat
+  Id = 23
+  Price = 75000
+  Hp = 700
+  Armor = 0
+}
+Magma pendant= {
+  Name = Magma pendant
+  Id = 5
+  Price = 3000
+  Hp = 60
+  Armor = 5
+}
+Necklace of light= {
+  Name = Necklace of light
+  Id = 19
+  Price = 25000
+  Hp = 400
+  Armor = 0
+}
+Warrior flag= {
+  Name = Warrior flag
+  Id = 14
+  Price = 6300
+  Hp = 100
+  Armor = 10
+}
+Magma brooch= {
+  Name = Magma brooch
+  Id = 7
+  Price = 2500
+  Hp = 50
+  Armor = 4.4
+}
+Oni Mask= {
+  Image = rbxassetid://86363981798886
+  Name = Oni Mask
+  Id = 15
+  Price = 15000
+  Hp = 300
+  Armor = 0
+}
+Mummy shawl= {
+  Image = rbxassetid://119993590675802
+  Name = Mummy shawl
+  Id = 9
+  Price = 2100
+  Hp = 80
+  Armor = 0
+}
+Arcana brooch= {
+  Name = Arcana brooch
+  Id = 25
+  Price = 200000
+  Hp = 600
+  Armor = 60
+}
+Magma Orb= {
+  Image = rbxassetid://78335216183517
+  Name = Magma Orb
+  Id = 12
+  Price = 5000
+  Hp = 50
+  Armor = 10
+}
+Slime earrings= {
+  Image = rbxassetid://101951455796961
+  Name = Slime earrings
+  Id = 6
+  Price = 800
+  Hp = 15
+  Armor = 0
+}
+Titan cloak= {
+  Image = rbxassetid://71653240879956
+  Name = Titan cloak
+  Id = 18
+  Price = 25000
+  Hp = 250
+  Armor = 10
+}
+Sand earrings= {
+  Name = Sand earrings
+  Id = 8
+  Price = 1000
+  Hp = 38
+  Armor = 0
+}
+Stone ring= {
+  Image = rbxassetid://139439907632708
+  Name = Stone ring
+  Id = 2
+  Price = 750
+  Hp = 5
+  Armor = 1
+}
+Gold ring= {
+  Image = rbxassetid://85190793059448
+  Name = Rotational beheading
+  Id = 3
+  Price = 1250
+  Hp = 25
+  Armor = 1.5
+}
+--------------------------------------------------------------------------------
+
+Path: ReplicatedStorage.Module.Config.WeaponConfig
+--------------------------------------------------------------------------------
+Blade of Frost= {
+  Name = Blade of Frost
+  Cool = 0.5
+  Id = 16
+  UpgradePrice = 1900
+  Range = 5.5
+  Damage = 69
+}
+The fate of sudden death= {
+  Name = The fate of sudden death
+  Cool = 0.7
+  Id = 28
+  UpgradePrice = 11500
+  Range = 9
+  Damage = 220
+}
+Fresh blood= {
+  Name = Fresh blood
+  Cool = 0.6
+  Id = 14
+  UpgradePrice = 2500
+  Range = 6
+  Damage = 85
+}
+Desert Legend= {
+  Name = Desert Legend
+  Cool = 0.8
+  Id = 10
+  UpgradePrice = 1000
+  Range = 6
+  Damage = 46
+}
+Sword of oath= {
+  Name = Sword of oath
+  Cool = 0.7
+  Id = 8
+  UpgradePrice = 650
+  Range = 5.5
+  Damage = 34
+}
+Prostron= {
+  Name = Prostron
+  Cool = 0.8
+  Id = 29
+  UpgradePrice = 14000
+  Range = 10
+  Damage = 260
+}
+Yonghwado= {
+  Name = Yonghwado
+  Cool = 0.6
+  Id = 27
+  UpgradePrice = 12500
+  Range = 9
+  Damage = 230
+}
+Cherry blossoms too= {
+  Name = Cherry blossoms too
+  Cool = 0.7
+  Id = 26
+  UpgradePrice = 12500
+  Range = 8
+  Damage = 190
+}
+Mummy slayer= {
+  Name = Mummy slayer
+  Cool = 0.5
+  Id = 9
+  UpgradePrice = 800
+  Range = 4.5
+  Damage = 29
+}
+Winter treasures= {
+  Name = Winter treasures
+  Cool = 0.8
+  Id = 21
+  UpgradePrice = 5000
+  Range = 8
+  Damage = 135
+}
+[DEV] Midnight Heaven's Scythe= {
+  Name = [DEV] Midnight Heaven's Scythe
+  Cool = 0.01
+  Id = 15
+  UpgradePrice = 100000000
+  Range = 20
+  Damage = 1
+}
+Cursed Blood Sword= {
+  Name = Cursed Blood Sword
+  Cool = 0.65
+  Id = 24
+  UpgradePrice = 10000
+  Range = 7
+  Damage = 165
+}
+Dark fire= {
+  Name = Dark fire
+  Cool = 0.7
+  Id = 23
+  UpgradePrice = 7500
+  Range = 8
+  Damage = 140
+}
+[DEV] Mountain Butterfly Chain Arm= {
+  Name = [DEV] Mountain Butterfly Chain Arm
+  Cool = 1.2
+  Id = 22
+  UpgradePrice = 100000000
+  Range = 15
+  Damage = 7500
+}
+Goblin's Wrath= {
+  Name = Goblin's Wrath
+  Cool = 0.9
+  Id = 6
+  UpgradePrice = 200
+  Range = 7.5
+  Damage = 20
+}
+Tundra opportunity= {
+  Name = Tundra opportunity
+  Cool = 0.7
+  Id = 17
+  UpgradePrice = 2150
+  Range = 6
+  Damage = 74
+}
+Cursed eyes= {
+  Name = Cursed eyes
+  Cool = 0.6
+  Id = 20
+  UpgradePrice = 3000
+  Range = 6.5
+  Damage = 100
+}
+Steel greatsword= {
+  Name = Steel greatsword
+  Cool = 1
+  Id = 5
+  UpgradePrice = 500
+  Range = 7
+  Damage = 28
+}
+Katana= {
+  Name = Katana
+  Cool = 0.6
+  Id = 13
+  UpgradePrice = 1650
+  Range = 5.5
+  Damage = 62
+}
+Golem Destroyer= {
+  Name = Golem Destroyer
+  Cool = 0.4
+  Id = 11
+  UpgradePrice = 1200
+  Range = 5.3
+  Damage = 39
+}
+Iron sword= {
+  Name = Iron sword
+  Cool = 0.8
+  Id = 3
+  UpgradePrice = 220
+  Range = 5
+  Damage = 16
+}
+Sand dagger= {
+  Name = Sand dagger
+  Cool = 0.3
+  Id = 7
+  UpgradePrice = 450
+  Range = 3.5
+  Damage = 12.5
+}
+Touch of Dawn= {
+  Name = Touch of Dawn
+  Cool = 0.7
+  Id = 19
+  UpgradePrice = 2800
+  Range = 6.5
+  Damage = 95
+}
+Magma Greatsword= {
+  Name = Magma Greatsword
+  Cool = 0.7
+  Id = 12
+  UpgradePrice = 1500
+  Range = 6
+  Damage = 57
+}
+Electric icer= {
+  Name = Electric icer
+  Cool = 0.9
+  Id = 18
+  UpgradePrice = 2500
+  Range = 6.3
+  Damage = 90
+}
+King's sword= {
+  Name = King's sword
+  Cool = 0.7
+  Id = 4
+  UpgradePrice = 350
+  Range = 5.2
+  Damage = 20
+}
+Wooden sword= {
+  Name = Wooden sword
+  Cool = 0.7
+  Id = 1
+  UpgradePrice = 100
+  Range = 4
+  Damage = 10
+}
+Stone sword= {
+  Name = Stone sword
+  Cool = 0.7
+  Id = 2
+  UpgradePrice = 150
+  Range = 4.5
+  Damage = 12
+}
+Cheonjeolchu= {
+  Name = Cheonjeolchu
+  Cool = 1.2
+  Id = 25
+  UpgradePrice = 10000
+  Range = 11
+  Damage = 180
+}
+--------------------------------------------------------------------------------
+
+Path: ReplicatedStorage.Module.Config.SkillConfig
+--------------------------------------------------------------------------------
+Goblin's Fury= {
+  Passive = false
+  Name = Goblin's Fury
+  Lay = 9999
+  Id = 12
+  Mana = 100
+  Info = I don't know why, but I can now summon goblins.. (Stamina50 Damage10) Per Goblin Killed0.1%This is the core embedded in the center of the golem.0.01%It gets bigger as
+  Cool = 60
+}
+Rubber skin= {
+  Lay = 8
+  EvolutionInfo = Skin has evolved further in cold spaces... Statue,Immune to fire
+  Id = 9
+  EvolutionName = Absolute skin
+  Passive = true
+  Name = Rubber skin
+  ManaStone = 7
+  Evolution = true
+  Info = Become immune to burns!!
+  Mana = 0
+  Cool = 0
+}
+Unknown= {
+  Lay = 10
+  EvolutionInfo = Invisible things began to appear..
+  Id = 11
+  EvolutionName = Mysterious eyes
+  Passive = true
+  Name = Unknown
+  ManaStone = 10
+  Evolution = true
+  Info = ???
+  Mana = 0
+  Cool = 0
+}
+Ilsum= {
+  EvolutionName2 = Cherry blossom island
+  Lay = 6
+  EvolutionInfo = A glimpse5By shouting a thousand times, Ilseom evolved.. Invisible things began to appear. Of damage700% (100%Probability of bleeding)
+  Id = 6
+  EvolutionName = Extinction
+  Evolution = true
+  Passive = false
+  Name = Ilsum
+  ManaStone = 5
+  Info = It rushes and cuts at very high speeds.. Of damage350% (30%Probability of bleeding)
+  EvolutionInfo2 = I found the source of the true skill. In addition, the advantages of the skills originally learned have been combined.(Low mana cost). Of damage1000% (100%Probability of bleeding) The skill leaves a mark on the enemy hit and then explodes..(Of damage500%)
+  Mana = 50
+  Cool = 12
+}
+Focus on one point= {
+  Lay = 11
+  EvolutionInfo = I realized how to use mana. After condensing the attack to one point and stabbing3After a second, mana explodes within the body of the damaged enemy..(Mana when exploded10% X 25) Damage
+  Id = 14
+  EvolutionName = One point explosion
+  Passive = false
+  Name = Focus on one point
+  ManaStone = 10
+  Evolution = true
+  Info = Compresses the attack to one point and stabs it.. Of damage500%
+  Mana = 200
+  Cool = 5
+}
+Light= {
+  Lay = 9
+  EvolutionInfo = The extreme cold seeps into the iron, giving it incredible strength..(Increased range). (Of remaining mana50%Use.) Damage: (Mana usedX 10)
+  Id = 10
+  EvolutionName = Spa
+  Passive = false
+  Name = Light
+  ManaStone = 7
+  Evolution = true
+  Info = Collides mana to emit tremendous light.(Of remaining mana50%Use.) Damage: (Mana usedX 5)
+  Mana = 0
+  Cool = 5
+}
+Sword= {
+  EvolutionName2 = Extreme bloodshed
+  Lay = 16
+  EvolutionInfo = This is a very rare item that drops when a being above your level dies.. Of damage750%
+  Id = 19
+  EvolutionName = Bloodline
+  Evolution = true
+  Passive = false
+  Name = Sword
+  ManaStone = 100
+  Info = It forms a sword and flies away.. I don't think I can use it well yet..  Of damage100%
+  EvolutionInfo2 = This is a very rare item that drops when a being above your level dies.. Of damage1350%
+  Mana = 1000
+  Cool = 7
+}
+Cold salt= {
+  Passive = true
+  Name = Cold salt
+  Lay = 99
+  Id = 7
+  Mana = 0
+  Info = Low-temperature flames born under special circumstances are not easily extinguished.(Slow movement speed)(15Tick ​​persists). Attack power: 1Per tick(5 + Mana StatX 1)Dmg
+  Cool = 0
+}
+Flame= {
+  Lay = 2
+  EvolutionInfo = Save all your mana to storage. Chlorine property is added to the attack.(5Tick ​​persists). Attack power: 1Per tick(5 + Mana StatX 3)Dmg
+  Id = 2
+  EvolutionName = Chloride
+  Passive = true
+  Name = Flame
+  ManaStone = 2
+  Evolution = true
+  Info = Fire attribute is added to attack(5Tick ​​persists). Attack power: 1Per tick(5 + Mana StatX 1)Dmg
+  Mana = 0
+  Cool = 0
+}
+Rotational beheading= {
+  Lay = 12
+  EvolutionInfo = It spins and pulls nearby enemies, then spins and attacks.. Of damage1000%(Moxibustion in the air1Candle)
+  Id = 15
+  EvolutionName = Huppungwolcham
+  Passive = false
+  Name = Rotational beheading
+  ManaStone = 25
+  Evolution = true
+  Info = Rotates and attacks in all directions. Of damage700%(Moxibustion in the air1Candle) 
+  Mana = 250
+  Cool = 7
+}
+Hardening= {
+  Lay = 3
+  EvolutionInfo = Electricity of the beginning. Defense stats50 Rises(Doesn't cause bleeding!)
+  Id = 3
+  EvolutionName = Ultra hard
+  Passive = true
+  Name = Hardening
+  ManaStone = 1
+  Evolution = true
+  Info = Defense stats25 Rises
+  Mana = 0
+  Cool = 0
+}
+Take down= {
+  Lay = 1
+  EvolutionInfo = It is an attack realized at the edge of death.. Strikes the ground and then splits into three directions to attack.. Attack power: Maximum stamina35% + Damage+ 25% (Floating in the air1Candle)
+  Id = 1
+  EvolutionName = Ground crasher
+  Passive = false
+  Name = Take down
+  ManaStone = 1
+  Evolution = true
+  Info = Attacks by hitting the ground. Attack power: Maximum stamina25% + Damage+ 10% (Floating in the air1Candle)
+  Mana = 25
+  Cool = 8
+}
+Ice pick= {
+  EvolutionName2 = Bingchu
+  Lay = 15
+  EvolutionInfo = This is a very rare item that drops when a being above your level dies.. (Mana5% Consumption) Damage: (Mana usedX 15), Explosion damage: (Mana usedX 5)
+  Id = 18
+  EvolutionName = Ice boom
+  Evolution = true
+  Passive = false
+  Name = Ice pick
+  ManaStone = 50
+  Info = Creates ice with mana and shoots it. (Mana5% Consumption) Damage: (Mana usedX 15)
+  EvolutionInfo2 = This is a very rare item that drops when a being above your level dies.. Mana5% Consumption) Damage: (Mana usedX 15), Explosion damage: (Mana usedX 5)
+  Mana = 0
+  Cool = 3
+}
+Detect Mana= {
+  Lay = 90000
+  EvolutionInfo = Circulate mana inside the body and send it to the mana core.. (Every second5% Mana Consumption) Of consumed mana0.5Percent goes into the core.
+  Id = 13
+  EvolutionName = Mana Cycle
+  Passive = false
+  Name = Detect Mana
+  ManaStone = 10
+  Evolution = true
+  Info = I feel the mana in the air.. I'm not sure yet..(Every second5% Mana Consumption)
+  Mana = 0
+  Cool = 1
+}
+The essence of mining= {
+  Lay = -1
+  Passive = true
+  Name = The essence of mining
+  ManaStone = 1
+  Id = 17
+  Mana = 0
+  Info = Damage to ore+100%
+  Cool = 0
+}
+Chill= {
+  Lay = 7
+  Passive = true
+  Name = Chill
+  ManaStone = 3
+  Id = 8
+  Mana = 0
+  Info = When attacking(1+ Mana StatX 0.5)% Chance of inflicting frostbite(10Lasts seconds). (Frostbite does not come off at once5Freezes when hit1Candle)
+  Cool = 0
+}
+Blood slash= {
+  EvolutionName2 = Cherry blossoms
+  Lay = 5
+  EvolutionInfo = This is the pinnacle of swordsmanship reached by cutting again and again.. This is a technology that will destroy everything.. 1Hall: Damage55% (5%Probability of bleeding)
+  Id = 5
+  EvolutionName = Bloody destruction
+  Evolution = true
+  Passive = false
+  Name = Blood slash
+  ManaStone = 5
+  Info = Quickly cover a wide range of fronts7Cut it down. 1Hall: Damage45% (3%Probability of bleeding)
+  EvolutionInfo2 = I found the source of the true skill. In addition, the advantages of the skills originally learned have been combined.(Low mana cost). 1Hall: Damage70% (10%Probability of bleeding) At the end, it explodes and knocks you back..
+  Mana = 35
+  Cool = 9
+}
+Continuous slash= {
+  Lay = 4
+  EvolutionInfo = It is a cherry blossom with great magic that is said to be grown only in Paradise.. But not as good as that samurai.. 1Hall: Damage40% (2%Probability of bleeding)
+  Id = 4
+  EvolutionName = Rampage
+  Passive = false
+  Name = Continuous slash
+  ManaStone = 3
+  Evolution = true
+  Info = Fast forward7Cut it down. 1Hall: Damage35% (1%Probability of bleeding)
+  Mana = 30
+  Cool = 6
+}
+Nakhwacham= {
+  Lay = 14
+  Passive = false
+  Name = Nakhwacham
+  ManaStone = 50
+  Id = 16
+  Mana = 500
+  Info = It sends out small slashes quickly.. Damage per tick40%
+  Cool = 12
+}
+--------------------------------------------------------------------------------
+
+Path: ReplicatedStorage.Module.Config.ItemConfig
+--------------------------------------------------------------------------------
+Hancheol= {
+  SellGold = 5000000
+  Image = rbxassetid://84596379254322
+  Name = Hancheol
+  NotQuest = true
+  NotBuy = true
+  Info = The extreme cold seeps into the iron, giving it incredible strength.. I think it will be a good weapon material..
+}
+Gold= {
+  SellGold = 200
+  Image = rbxassetid://136416680151717
+  Name = Gold
+  Info = It's gold. Often used for valuable items.
+}
+Bloody destruction= {
+  SellGold = 3000000
+  Image = rbxassetid://85439287075300
+  Name = Dragon stone
+  NotQuest = true
+  Mana = 100000
+  NotBuy = true
+  Info = It is an ore filled with the energy of a dragon.. Very rare!!
+}
+Alpha player badge= {
+  NotBuy = true
+  Name = Alpha player badge
+  Info = A token given out shortly after the game was released.(If you have this, you are an early user)
+}
+Stamina potion(Big) = {
+  Info = Stamina when used15% Recovery
+  Image = rbxassetid://137635253214218
+  Name = Stamina potion(Big)
+  Active = true
+}
+Recognition from the head of Paradise= {
+  Image = rbxassetid://136938425229046
+  NotBuy = true
+  Name = Recognition from the head of Paradise
+  Info = This is recognition from the head of Paradise.. You are strong!
+}
+Fireball= {
+  SellGold = 75
+  Image = rbxassetid://115556999161092
+  Name = Fireball
+  Info = This is a fire sphere dropped by Magma Blaster..
+}
+Teleport Record= {
+  Name = Teleport Record
+  Active = true
+  Info = Note the location to teleport to.[Teleporter]You can teleport if you have.
+  NotUse = true
+  NotRaid = true
+}
+Mana Potion(Big) = {
+  Info = Mana when used15% Recovery
+  Image = rbxassetid://118860918739162
+  Name = Mana Potion(Big)
+  Active = true
+}
+10M Gold sack= {
+  SellGold = 10000000
+  Image = rbxassetid://100274877952244
+  Name = 10M Gold sack
+  NotQuest = true
+  NotBuy = true
+  Info = 10M It's a sack full of gold..
+  NotX = true
+}
+Queen's Ice Core= {
+  SellGold = 3000000
+  Image = rbxassetid://85414817249953
+  Name = Queen's Ice Core
+  NotQuest = true
+  NotBuy = true
+  Info = It is a collection of magical powers that only existed within the queen's body.. It seems to be related to the queen's ice attribute..
+}
+Eternal Frost Crystal= {
+  SellGold = 3000000
+  Image = rbxassetid://80787697467732
+  Name = Eternal Frost Crystal
+  NotQuest = true
+  NotBuy = true
+  Info = It is a frost crystal that exists forever and never melts..
+}
+Twilight Shard= {
+  SellGold = 30000
+  Image = rbxassetid://108897819891704
+  Name = Maximum upper limit
+  NotQuest = true
+  NotBuy = true
+  Info = Contains mysterious power. I don't know yet.
+}
+Sand= {
+  SellGold = 5
+  Image = rbxassetid://137713954567510
+  Name = Rock
+  Info = It's a very common sand..
+}
+Cloth= {
+  SellGold = 50
+  Image = rbxassetid://119275803014301
+  Name = Cloth
+  Info = It is a mysterious fabric that does not tear easily..
+}
+Robux= {
+  NotBuy = true
+  Name = Robux
+  Info = Each at the Game Pass store1This is a Robux item that can be purchased with Robux..
+}
+Diamond= {
+  SellGold = 2500
+  Image = rbxassetid://135582820651670
+  Name = Diamond
+  Info = It's a diamond. This is an essential item for a good weapon..
+}
+Magic Essence= {
+  SellGold = 50000
+  Image = rbxassetid://101870569554005
+  Name = Magic Essence
+  NotSell = true
+  NotQuest = true
+  Mana = 1250
+  NotBuy = true
+  Info = Only the essence of magic melted and formed a crystal..
+}
+Soup of Oblivion= {
+  Info = Reset stats when used
+  Image = rbxassetid://123347514409527
+  Name = Soup of Oblivion
+  Active = true
+}
+Electricity of the beginning= {
+  SellGold = 50000
+  Image = rbxassetid://75452760075528
+  Name = Electricity of the beginning
+  Info = Electricity has existed since the beginning of time..
+}
+Golem Core= {
+  SellGold = 25000
+  Image = rbxassetid://85087565538038
+  Name = Golem Core
+  Info = This is the core embedded in the center of the golem.. Has a low chance of being dropped by golem type mobs.
+}
+Primordial rock= {
+  SellGold = 50000
+  Image = rbxassetid://113218570025402
+  Name = Primordial rock
+  NotQuest = true
+  NotBuy = true
+  Info = It is a rock that has existed since the beginning.
+}
+Goblin core= {
+  SellGold = 3000
+  Image = rbxassetid://95404353852312
+  Name = Goblin core
+  Info = Low-temperature flames born under special circumstances are not easily extinguished.
+}
+Unknown paper= {
+  SellGold = 1
+  Image = rbxassetid://96331899026344
+  Name = Unknown paper
+  NotQuest = true
+  NotBuy = true
+  Info = There is something written. I didn't understand.
+}
+Warm chill= {
+  SellGold = 4000
+  Image = rbxassetid://128666401901711
+  Name = Warm chill
+  Info = It's warm.. It's cold.. Can we make something like this again??
+}
+Yeti's Tooth= {
+  SellGold = 140
+  Image = rbxassetid://114741313773389
+  Name = Yeti's Tooth
+  Info = These are the teeth of a Yeti living in the snowy fields..
+}
+Dazzling decision= {
+  SellGold = 3000
+  Image = rbxassetid://117736807760942
+  Name = Dazzling decision
+  Info = It's dazzling and I can't see clearly.. Has divine power.
+}
+Receive gold= {
+  Info = If the mana is full, Save all your mana to storage. If not, retrieve the mana stored in storage..(Maximum upper limit50K)
+  NotUse = true
+  Name = Mana storage
+  Active = true
+}
+Frosty Essence= {
+  SellGold = 50000
+  Image = rbxassetid://101038694253783
+  Name = Frosty Essence
+  NotSell = true
+  NotQuest = true
+  Mana = 15500
+  NotBuy = true
+  Info = Contains magical power and the secrets of winter.. Could be a good weapon, I think it could be a good mana resource..
+}
+Teleporter= {
+  Image = rbxassetid://89185468314421
+  Name = Teleporter
+  Active = true
+  Info = Mana50Teleport to the recorded location using. Item[Teleport Record]If you do not record it, you cannot use teleportation..(Cool time60Candle)
+  NotUse = true
+  NotRaid = true
+}
+Winter Queen Raid Ticket= {
+  SellGold = 10000
+  Image = rbxassetid://127410830248310
+  Name = Winter Queen Raid Ticket
+  NotSell = true
+  NotQuest = true
+  NotBuy = true
+  Info = This is the ticket needed for the Winter Queen Raid..
+}
+Sword= {
+  SellGold = 200
+  Image = rbxassetid://106161978351144
+  Name = Fangs
+  Info = These are poisonous teeth..
+}
+Simple space teleporter= {
+  Name = Simple space teleporter
+  Active = true
+  Info = If1If it's a dimension2Dimensionally, 2If it's a dimension1You can instantly move to the dimension.
+  NotUse = true
+  NotRaid = true
+}
+Mysterious eyes= {
+  SellGold = 100
+  Image = rbxassetid://87672796462062
+  Name = Mysterious eyes
+  Info = Mysterious snow that never melts
+}
+Mana Potion(Cow) = {
+  Info = Mana when used3% Recovery
+  Image = rbxassetid://135788031843688
+  Name = Mana Potion(Cow)
+  Active = true
+}
+A mysterious conglomerate= {
+  SellGold = 100000
+  Image = rbxassetid://106275909226332
+  Name = Primordial mineral
+  Info = It is the mineral of the beginning..
+}
+Magic core= {
+  SellGold = 50000
+  Image = rbxassetid://99387010066860
+  Name = Magic core
+  NotSell = true
+  NotQuest = true
+  Mana = 1500000
+  NotBuy = true
+  Info = Mana Core75Low-temperature flames born under special circumstances are not easily extinguished..
+}
+Bitter cold decision= {
+  SellGold = 3000000
+  Image = rbxassetid://128043709612794
+  Name = Bitter cold decision
+  NotQuest = true
+  NotBuy = true
+  Info = This is a decision made by the harsh temperatures and environment..
+}
+[+]Receive gold= {
+  Info = If the mana is full, Save all your mana to storage. If not, retrieve the mana stored in storage..(Maximum upper limit50M)
+  NotUse = true
+  Name = [+]Mana storage
+  Active = true
+}
+Goblin blood= {
+  SellGold = 10
+  Image = rbxassetid://73445839802609
+  Name = Goblin blood
+  Info = It's goblin blood..
+}
+Soup of Golden Oblivion= {
+  Image = rbxassetid://121113046731989
+  Name = Soup of Golden Oblivion
+  Active = true
+  NotUse = true
+  Info = When used, stats are reset and not consumed.!
+}
+Magma core= {
+  SellGold = 10000
+  Image = rbxassetid://140290802243643
+  Name = Magma core
+  Info = This is a core type item that is dropped by lava golems..
+}
+Rock= {
+  SellGold = 16
+  Image = rbxassetid://82969884197563
+  Name = Rock
+  Info = It's just a stone.
+}
+Parchment with something written on it= {
+  SellGold = 100
+  Image = rbxassetid://82675621413281
+  Name = Parchment with something written on it
+  NotQuest = true
+  NotBuy = true
+  Info = It looks like the shell of some weapon..
+}
+Desert core= {
+  SellGold = 7500
+  Image = rbxassetid://106931893149380
+  Name = Desert core
+  Info = This is a core type item that drops from desert monsters..
+}
+Wolf teeth= {
+  SellGold = 6500
+  Image = rbxassetid://110256466940148
+  Name = Wolf teeth
+  Info = It's a wolf's tooth. It seems harder than steel.
+}
+10K Gold sack= {
+  SellGold = 10000
+  Image = rbxassetid://107532468061691
+  Name = 10K Gold sack
+  NotQuest = true
+  NotBuy = true
+  Info = 10K It's a sack full of gold..
+  NotX = true
+}
+Lava Cave Raid Ticket= {
+  SellGold = 10000
+  Image = rbxassetid://87082061703991
+  Name = Lava Cave Raid Ticket
+  NotSell = true
+  NotQuest = true
+  NotBuy = true
+  Info = I think it could be a good mana resource..
+}
+Broken blade= {
+  SellGold = 1000
+  Image = rbxassetid://119687382643771
+  Name = Broken blade
+  Info = It's the blade of the warrior's broken sword..
+}
+Mana Potion(Middle) = {
+  Info = Mana when used8% Recovery
+  Image = rbxassetid://103933419440265
+  Name = Mana Potion(Middle)
+  Active = true
+}
+Curse= {
+  SellGold = 2000
+  Image = rbxassetid://113786672334351
+  Name = Curse
+  Info = The curse came together and became matter.. The opposite of the curse is divine power.
+}
+The light of the beginning= {
+  SellGold = 75000
+  Image = rbxassetid://120028916364991
+  Name = The light of the beginning
+  Info = It is the light born in the beginning.
+}
+Broken Blood Blade= {
+  SellGold = 35000
+  Image = rbxassetid://96207591749800
+  Name = Broken Blood Blade
+  NotBuy = true
+  Info = A samurai's broken sword
+}
+Stamina potion(Middle) = {
+  Info = Stamina when used8% Recovery
+  Image = rbxassetid://121266740600462
+  Name = Stamina potion(Middle)
+  Active = true
+}
+Mana stone= {
+  SellGold = 50000
+  Image = rbxassetid://109598582259334
+  Name = Mana stone
+  NotSell = true
+  NotQuest = true
+  Mana = 100
+  Info = This is a very rare item that drops when a being above your level dies..
+}
+Stamina potion(Cow) = {
+  Info = Stamina when used3% Recovery
+  Image = rbxassetid://120135373758111
+  Name = Stamina potion(Cow)
+  Active = true
+}
+Soup of Forgetting= {
+  Info = I only forget the equipped skills.. Be careful!
+  Name = Soup of Forgetting
+  Active = true
+}
+Sandstone= {
+  SellGold = 66
+  Image = rbxassetid://85104092289351
+  Name = Sandstone
+  Info = This is a sandstone found near the pyramids..
+}
+Slime slime= {
+  SellGold = 7
+  Image = rbxassetid://94186208614251
+  Name = Slime slime
+  Info = It's slime's slime..
+}
+Leather= {
+  SellGold = 500
+  Image = rbxassetid://95157611064699
+  Name = Leather
+  Info = This is really tough leather..
+}
+Reinforced downside protection= {
+  Image = rbxassetid://102304436185534
+  Name = Reinforced downside protection
+  Info = Prevents reinforcement from dropping even if reinforcement fails. (1Delete when used)
+}
+Broken Blood Sword Fragment= {
+  SellGold = 2500
+  Image = rbxassetid://102308710606209
+  Name = Broken Blood Sword Fragment
+  NotBuy = true
+  Info = A samurai's broken sword.
+}
+Steel= {
+  SellGold = 35
+  Image = rbxassetid://82684342892525
+  Name = Steel
+  Info = It's iron. It is often used as an important resource during production..
+}
+Crimson Essence= {
+  SellGold = 30000
+  Image = rbxassetid://117721911144933
+  Name = Crimson Essence
+  NotQuest = true
+  NotBuy = true
+  Info = Contains ancient vitality.
+}
+Hard skin= {
+  SellGold = 2000
+  Image = rbxassetid://82828511014399
+  Name = Hard skin
+  Info = It's a very hard skin.. It doesn't even burn in fire!
+}
+Gray Heartstone= {
+  SellGold = 30000
+  Image = rbxassetid://137134384722982
+  Name = Gray Heartstone
+  NotQuest = true
+  NotBuy = true
+  Info = This is the core of the lava incarnation golem.
+}
+Ether= {
+  SellGold = 50000
+  Image = rbxassetid://98620373659925
+  Name = Ether
+  NotQuest = true
+  NotBuy = true
+  Info = A mysterious conglomerate
+}
+1M Gold sack= {
+  SellGold = 1000000
+  Image = rbxassetid://137042861041532
+  Name = 1M Gold sack
+  NotQuest = true
+  NotBuy = true
+  Info = 1M It's a sack full of gold..
+  NotX = true
+}
+100K Gold sack= {
+  SellGold = 100000
+  Image = rbxassetid://108666500553972
+  Name = 100K Gold sack
+  NotQuest = true
+  NotBuy = true
+  Info = 100K It's a sack full of gold..
+  NotX = true
+}
+Mysterious sack= {
+  SellGold = 1000
+  Image = rbxassetid://139902211731378
+  Name = Mysterious sack
+  NotQuest = true
+  NotBuy = true
+  Info = Although it looks like a small sack,, The space inside the sack is very spacious..
+}
+Deadly poison= {
+  SellGold = 2000
+  Image = rbxassetid://113938200773698
+  Name = Deadly poison
+  Info = It's deadly poison
+}
+Cherry blossoms= {
+  SellGold = 3000
+  Image = rbxassetid://94401648876839
+  Name = Cherry blossoms
+  Info = This is a core type item that drops from desert monsters..
+}
+Old curse shell= {
+  SellGold = 1000000
+  Image = rbxassetid://130218196472082
+  Name = Old curse shell
+  NotQuest = true
+  NotBuy = true
+  Info = It looks like the shell of some weapon.. If I inject a curse here again..
+}
+Curse core= {
+  SellGold = 250000
+  Image = rbxassetid://88258596700059
+  Name = Curse core
+  Info = It's the blade of the warrior's broken sword... It is the light born in the beginning.
+}
+Fur and leather= {
+  SellGold = 5000
+  Image = rbxassetid://134273703585466
+  Name = Fur and leather
+  Info = It's wolf fur. It looks very warm..
+}
+Jade= {
+  SellGold = 120
+  Image = rbxassetid://119924449924878
+  Name = Jade
+  Info = This is jade that warriors carry as an amulet..
+}
+Artificial stone= {
+  SellGold = 50000
+  Image = rbxassetid://94360429087486
+  Name = Artificial stone
+  NotSell = true
+  NotQuest = true
+  Mana = 1500
+  NotBuy = true
+  Info = Magic, impurity, and divine power are in harmony... It's really mysterious.
+}
+--------------------------------------------------------------------------------
